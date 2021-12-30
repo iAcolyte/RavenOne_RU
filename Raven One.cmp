@@ -1,0 +1,383 @@
+campaign = 
+{
+    ["picture_EN"] = "R1 Cover Camp 2.png",
+    ["directory"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\",
+    
+    ["description"] = "February 2008. As Operation Iraqi Freedom (OIF) is in the final days of its fourth year, Carrier Strike Group 4 with USS Valley Forge arrives in the Gulf of Oman for a routine deployment in support of the allied forces on the ground. Four Hornet squadrons of the CVW-4 “Tomahawk”: VFA-91 (Spartans), VMFA-262 (Moonshadows), VFA-47 (Buccanners) and VFA-64 (Ravens) prepare for few intensive months of close air support missions flown mainly in al-Anbar province, where last pockets of insurgents persisted despite successful ground campaign known as “Anbar Awakening”.\
+\
+At the same time, tensions in the Persian Gulf are on the rise. Iran openly flexes their muscles, conducting extensive and selective searches of civilian vessels that are passing through the Strait of Hormuz. Rhetoric from Tehran against Israel, US and some of the Gulf Cooperation Council states is reaching unprecedented levels, while tanker traffic and flow of oil begins to drop as a fallout of the increasingly unstable situation.\
+\
+You will play the role of Commander James “Flip” Wilson, 35-year old Operations Officer of the VFA-64, who in his 12 years since the flight school accumulated over 3000 hours in the Hornet. Flip is also a Top Gun graduate, responsible for both training the squadron pilots and producing a daily flight schedule.\
+\
+The Ravens consist of 15 pilots, a small number of maintenance officers, a dozen chief petty officers, and some 160 sailors who maintain the 11 aircraft belonging to the squadron. Your name is stencilled on the bort of Raven 403. VFA-64 is commanded by Cmdr Steve “Cajun” Lassiter, an easy-going former Tulane linebacker with a thick moustache and a shock of dark hair. The second in command, Cmdr William “Saint” Patrick – simply refered to as XO by the rest of the squadron pilots – is a slender man of medium height with a thinning hairline, no sense of humour and a very difficult demeanour.\
+ \
+As USS Valley Forge enters the Gulf of Oman, you are expecting mostly long X-CAS sorties with occasional training hops with your fellow squad members. However, what everyone considered to be a routine deployment will soon turn into something completely different…\
+\
+NOTE:\
+\
+This campaign is based on the “Raven One” novel written by Kevin Miller and some of the missions try to recreate to the greatest extent possible sorties described therein. It is entirely up to you to read the book before flying the campaign (if you haven’t done so already) in order to get fully immersed in the storyline or to wait after you have finished playing. In either case, without checking the novel at some point (which is also available as an audiobook), this particular campaign will loose some of its depth. Don’t say we didn’t warn you. ",
+    ["picture"] = "R1 Cover Camp 2.png",
+    ["necessaryUnits"] = 
+    {
+        ["FA-18C_hornet"] = "FA-18C_hornet",
+    }, -- end of ["necessaryUnits"]
+    ["description_EN"] = "February 2008. As Operation Iraqi Freedom (OIF) is in the final days of its fourth year, Carrier Strike Group 4 with USS Valley Forge arrives in the Gulf of Oman for a routine deployment in support of the allied forces on the ground. Four Hornet squadrons of the CVW-4 “Tomahawk”: VFA-91 (Spartans), VMFA-262 (Moonshadows), VFA-47 (Buccanners) and VFA-64 (Ravens) prepare for few intensive months of close air support missions flown mainly in al-Anbar province, where last pockets of insurgents persisted despite successful ground campaign known as “Anbar Awakening”.\
+\
+At the same time, tensions in the Persian Gulf are on the rise. Iran openly flexes their muscles, conducting extensive and selective searches of civilian vessels that are passing through the Strait of Hormuz. Rhetoric from Tehran against Israel, US and some of the Gulf Cooperation Council states is reaching unprecedented levels, while tanker traffic and flow of oil begins to drop as a fallout of the increasingly unstable situation.\
+\
+You will play the role of Commander James “Flip” Wilson, 35-year old Operations Officer of the VFA-64, who in his 12 years since the flight school accumulated over 3000 hours in the Hornet. Flip is also a Top Gun graduate, responsible for both training the squadron pilots and producing a daily flight schedule.\
+\
+The Ravens consist of 15 pilots, a small number of maintenance officers, a dozen chief petty officers, and some 160 sailors who maintain the 11 aircraft belonging to the squadron. Your name is stencilled on the bort of Raven 403. VFA-64 is commanded by Cmdr Steve “Cajun” Lassiter, an easy-going former Tulane linebacker with a thick moustache and a shock of dark hair. The second in command, Cmdr William “Saint” Patrick – simply refered to as XO by the rest of the squadron pilots – is a slender man of medium height with a thinning hairline, no sense of humour and a very difficult demeanour.\
+\
+As USS Valley Forge enters the Gulf of Oman, you are expecting mostly long X-CAS sorties with occasional training hops with your fellow squad members. However, what everyone considered to be a routine deployment will soon turn into something completely different…\
+\
+NOTE:\
+\
+This campaign is based on the “Raven One” novel written by Kevin Miller and some of the missions try to recreate to the greatest extent possible sorties described therein. It is entirely up to you to read the book before flying the campaign (if you haven’t done so already) in order to get fully immersed in the storyline or to wait after you have finished playing. In either case, without checking the novel at some point (which is also available as an audiobook), this particular campaign will loose some of its depth. Don’t say we didn’t warn you. ",
+    ["description_RU"] = "Февраль 2008. Операция ‘Иракская свобода’ продолжается уже 4-й год, и 4-я Авианесущая ударная группа (CSG-4) с авианосцем ‘USS Valley Forge’ прибыла в Оманский залив в рамках запланированной ротации, чтобы поддержать союзные войска на земле. Четыре эскадрильи F/A-18 в составе крыла CVW-4 “Tomahawk”:  VFA-91 (Spartans), VMFA-262 (Moonshadows), VFA-47 (Buccanners) и VFA-64 (Ravens) готовятся к нескольким напряжённым месяцам работы в рамках непосредственной поддержки наземных войск в провинции Аль-Анбар, где сохранились последние очаги сопротивления повстанцев, несмотря на успешную наземную кампанию, известную как ‘Пробуждение Анбара’\
+\
+В то же самое время, напряжение в Персидском заливе нарастает. Иран открыто играет мускулами, проводя обширные и выборочные обыски гражданских судов, проходящих через Ормузский пролив. Риторика Тегерана в адрес Израили, США и некоторых стран Совета сотрудничества государств Персидского залива достигла беспрецедентного уровня, в то время как движение танкеров и поток нефти начали сокращаться вследствие нарастания нестабильности в регионе.\
+\
+Вы будете нести службу в роли LTCD (Lieutenant commander) Джима “Flip” Уилсона, 35-летнего Operations Officer в эскрадрилье VFA-64 ‘Ravens’, который за 12 лет после окончания лётного училища налетал более 3000 часов на Хорнете. Flip также выпускник программы Top Gun, ответственный за тренировки пилотов эскадрильи наряду с обычными вылетами в составе звена.\
+\
+В состав эскадрильи Ravens входят 15 пилотов, немного руководящих офицеров, дюжина старшин и около 160 матросов, которые обслуживают 11 самолётов, приписанных к ней. Вы приписаны к самолёту с бортовым номером 403. Командир эскадрильи VFA-64 - Cmdr (Commander) Стив “Cajun” Ласситер, легкомысленный бывший полузащитник Tulane с густыми усами и тёмными волосами. Его заместитель, Cmdr Уилльям “Saint” Патрик, называемый XO (Executing Officer, что-то вроде старпома) - стройный мужчина среднего роста с редеющей линией волос, лишённый чувства юмора и вместо это в избытке наделённый скверным характером.\
+\
+Как только Valley Forge войдёт в воды Оманского залива, вы ожидаете в основном дальние вылеты непосредственной поддержки наземных войск вперемешку с тренировочными вылетами с другими пилотами вашей эскадрильи. Однако то, что все считали обычным развертыванием, скоро превратится в нечто совершенно иное ...\
+\
+Заметка:\
+\
+Эта кампания основана на новелле “Raven One”, написанной Кевином Миллером (Kevin Miller). В ней мы пытались максимально воссоздать описанные в ней боевые вылеты. Чтобы полностью погрузиться в сюжет рекомендую ознакомиться с данной новеллой. Без этого сюжет потеряет часть своей глубины. Не говорите, что мы вас не предупреждали",
+    ["version"] = 1,
+    ["pictureSuccess_EN"] = "Success.png",
+    ["pictureFailed"] = "Failure.png",
+    ["stages"] = 
+    {
+        [11] = 
+        {
+            ["name"] = "Stage 11",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M11.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M11.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [11]
+        [13] = 
+        {
+            ["name"] = "Stage 13",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M13.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M13.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [13]
+        [7] = 
+        {
+            ["name"] = "Stage 7",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M07.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M07.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [7]
+        [1] = 
+        {
+            ["name"] = "Stage 1",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M01.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M01.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [1]
+        [2] = 
+        {
+            ["name"] = "Stage 2",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M02.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M02.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [2]
+        [15] = 
+        {
+            ["name"] = "Stage 15",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M15.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M15.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [15]
+        [8] = 
+        {
+            ["name"] = "Stage 8",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M08.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M08.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [8]
+        [16] = 
+        {
+            ["name"] = "Stage 16",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 50,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M16 Credits.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M16 Credits.miz",
+                }, -- end of [1]
+                [2] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 51,
+                        [2] = 51,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M15 ALT.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M15 ALT.miz",
+                }, -- end of [2]
+                [4] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 53,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M16 Credits.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M16 Credits.miz",
+                }, -- end of [4]
+                [3] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 52,
+                        [2] = 52,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M15 ALT NO WEED.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M15 ALT NO WEED.miz",
+                }, -- end of [3]
+            }, -- end of ["missions"]
+        }, -- end of [16]
+        [9] = 
+        {
+            ["name"] = "Stage 9",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M09.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M09.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [9]
+        [5] = 
+        {
+            ["name"] = "Stage 5",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M05.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M05.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [5]
+        [10] = 
+        {
+            ["name"] = "Stage 10",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M10.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M10.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [10]
+        [14] = 
+        {
+            ["name"] = "Stage 14",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M14.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M14.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [14]
+        [3] = 
+        {
+            ["name"] = "Stage 3",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M03.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M03.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [3]
+        [6] = 
+        {
+            ["name"] = "Stage 6",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M06.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M06.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [6]
+        [12] = 
+        {
+            ["name"] = "Stage 12",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M12.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M12.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [12]
+        [4] = 
+        {
+            ["name"] = "Stage 4",
+            ["missions"] = 
+            {
+                [1] = 
+                {
+                    ["interval"] = 
+                    {
+                        [1] = 0,
+                        [2] = 100,
+                    }, -- end of ["interval"]
+                    ["file"] = "R1 M04.miz",
+                    ["description"] = "",
+                    ["fullpath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\R1 M04.miz",
+                }, -- end of [1]
+            }, -- end of ["missions"]
+        }, -- end of [4]
+    }, -- end of ["stages"]
+    ["name"] = "Raven One",
+    ["startStage"] = 1,
+    ["name_EN"] = "Raven One",
+    ["pictureFailed_EN"] = "Failure.png",
+    ["fullPath"] = "E:\\Google Drive\\Campaigns READY\\F-18 Raven One\\For ED\\Raven One Campaign\\Raven One.cmp",
+    ["pictureSuccess"] = "Success.png",
+} -- end of campaign
