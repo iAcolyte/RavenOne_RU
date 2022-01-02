@@ -366,9 +366,9 @@ dictionary =
     ["DictKey_UnitName_1910"] = "Z_Al_Basra #202",
     ["DictKey_WptName_4689"] = "",
     ["DictKey_ActionText_8086"] = "(9-line)\
-(1. IP) Wizards…\
-(2. Направление) три два восемь… 
-(3. Дистанция) шесть ноль семь…\
+(1. IP) Wizards...\
+(2. Направление) три два восемь...\
+(3. Дистанция) шесть ноль семь...\
 (4. Высота) ноль один ноль...\
 (5. Описание) строение, укрепление повстанцев...\
 (6. Позиция) Север (N) 30 30 04, Восток (E) 47 48 04...\
@@ -1017,7 +1017,7 @@ dictionary =
     ["DictKey_ActionText_8492"] = "",
     ["DictKey_UnitName_108"] = "IADB Hawk Bandar e-Jask SR",
     ["DictKey_UnitName_3497"] = "Z_Iraq_Oilfield #002",
-    ["DictKey_sortie_5"] = "M03: Basrah",
+    ["DictKey_sortie_5"] = "M03: Басра",
     ["DictKey_UnitName_959"] = "Z_Al_Basra #127",
     ["DictKey_WptName_5544"] = "",
     ["DictKey_UnitName_2851"] = "Z_Iraq_Oilfield #004",
@@ -2011,7 +2011,6 @@ B) Приказать Smoke атаковать транспорт. ",
     ["DictKey_UnitName_1994"] = "Z_Al_Basra #147",
     ["DictKey_ActionText_6751"] = "Используйте меню F10, чтобы отдать приказ SMOKE\
 \
-
 A) Прикажите ему наблюдать с высоты, пока вы продемонстрируете силу\
 \
 B) Прикажите ему продемонстрировать силу, пока вы будете наблюдать с высоты ",
@@ -3329,7 +3328,7 @@ Finally, the Rules of Engagement. Follow the Consolidated ROE annexed to OPORD 0
 Do not enter airspace of any country without specific agreement. Steer clear from “Waterloo Red” - airspace and territorial waters of any country except Kuwait.\
 During Troops In Contact situations use of kinetic strike even in urban areas is authorised, however on-scene Commander is responsible for minimizing collateral damage and responding in a proportional manner. Extra precautions should be taken during attacks on targets in close proximity of mosques and religious or historical sites. High explosive ordnance should not be employed unless absolutely necessary if such building is less than 750 meters from the target. \
 \
-That is all from my side. Have a safe flight and we’ll see you back on deck for a debrief. Oh, and happy Valentine’s Day!\"",
+That is all from my side. Have a safe flight and we’ll see you back on deck for a debrief. Oh, and happy Valentine’s Day!",
     ["DictKey_GroupName_187"] = "Z_Iraq_Oilfield #012",
     ["DictKey_WptName_3588"] = "",
     ["DictKey_UnitName_1373"] = "Z_Al_Basra #271",
@@ -3661,7 +3660,7 @@ First, the assignments. I’m in 403, you Smoke in 410, Dutch will take 407. We 
 I’ll join up on Smoke, take lead and we’ll perform items checks. If our countermeasures are working as advertised, we will push on and let Dutch have some fun around the boat. Questions?” - Flip glanced at both junior officers and seeing there were none, nodded and continued.\
 \
 “Fine. On to the mission. Our mission number is 131. We’ll go direct Padres, which is our waypoint 2 using max conserve fuel profile above Angels 30. At Padres we will rendezvous with Exxon 55, an Air Force KC-135, and we’ll each fuel up and then continue to the AO. Our controlling agency will be Falcon - expect Falcon Control to be on Magenta 13 - who will assign us a specific area, altitude block and local commander, who then may pass us down directly to the troops on the ground. All the comms are listed on the card or the day and we’ll be using colours and numbers that are unified among all the assets under Falcon’s control. We’ll stay in our assigned sector and tank as required until we’re Winchester or must RTB at time 12:30. Questions?”\
- \
+\
 “Yeah” - Smoke pointed at the map - “enemy activity. What can we expect?”\
 \
 “The usual. Groups of bad-guys with small-caliber weapons and probable MANPADs. They know the AO extremely well and are capable of blending with the terrain. As Skipper said the other day: we will rely on the JTAC, but we are also free to question him and make our own calls if we think we are in danger of violating the ROE.”\
