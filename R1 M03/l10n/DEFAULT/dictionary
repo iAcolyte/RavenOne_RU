@@ -3297,38 +3297,39 @@ B) Приказать ему продемонстрировать силу, по
     ["DictKey_UnitName_6478"] = "",
     ["DictKey_UnitName_2764"] = "Z_Al_Basra #641",
     ["DictKey_WptName_765"] = "",
-    ["DictKey_descriptionText_1"] = "[It is advised to read Chapter 21 and first part of Chapter 22 from the “Raven One” novel] \
+    -- 
+    ["DictKey_descriptionText_1"] = "[Рекомендуется прочитать главу 21 и первую часть главы 22 новеллы “Raven One” (там описано, что пилотам не рекомендуется бомбить всё без разбору, потому что CNN смотрит, и если боевики сложат оружие от демонстрации силы, то этого будет достаточно)] \
 \
-CCTV screen flickered and switched to a  face of one of CVIC female officers.\
+Экран телемоста замерцал и переключился на знакомое женское лицо офицера CVIC (отдела разведки авианосца)\
 \
-“Welcome to the event two brief, I’m lieutenant jay gee Helen McHardy. Classification level of the briefing which follows is “restricted” and it pertains to event number 2 on 14 February. CSG-4 is currently in the Persian Gulf, supporting operation Phantom Phoenix”.\
+“Добро пожаловать на брифинг События 2, я LT JG Хелен Макарди. Уровень секретности брифинга - “ограниченный” и относится к Событию 2 от 14 февраля. CSG-4 в данный момент находится в Персидском заливе и оказывает поддержку операции Phantom Phoenix”.\
 \
-On the screen, lieutenant’s face was replaced with familiar rows of digits and numbers. \
+На экране, лицо лейтенанта заменили знакомые ряды чисел и букв. \
 \
-[CCTV 1] “We have good weather with a few clouds at 14 thousand feet, temperature on deck is 28 degrees Celsius with moderate wind from north - west. We do not expect any significant changes in the coming hours. However, over land you can expect heavy dust storms, limiting visibility below 5000 feet to 2-3 miles.\
+[CCTV 1] “У нас хорошая погода с незначительной облачностью на 14000 футах, температура на уровне моря 28 градусов по цельсию с умеренным ветром с северо-запада. Мы не ожидаем значительных изменений ближайшие часы. Тем не менее, над землёй вас могут ожидать пылевые бури, ограничивающие видимость ниже 5000 футов до 2-3 миль.\
 \
-[CCTV 2] For this event we will be launching 2 Raven Hornets on CAP, another 2 Ravens plus one airborne spare for CAS over Iraq and one tanker. Also we’ll have one Switchblade in plane guard and an E-2, callsign Knight.  During the mission, the Nails will be working with USAF E-3, callsign Magic. \
+[CCTV 2] В рамках этого вылета мы запускаем два Хорнета эскадрильи Raven для воздушного патрулирования (CAP), ещё два Хорнета, плюс один в воздухе для непосредственной поддержки войск (CAS) над Ираком, и один топливозаправщик. Также у нас есть один Switchblade (позывной вертолёта для эвакуации) рядом с кораблём и один E-2 (ДРЛО), позывной Knight. На протяжении миссии, Nails будут работать с E-3 ВВС США, позывной Magic. \
 \
-You can expect a Case One launch at 0800 and a Case One recovery at 0910 except for you double-cycle Ravens at 1020. The ship is MODLOC’ed at launch and recovery posit is 26 34 North and 51 50 East. Expected BRC 130.\
+Запуски назначены на 08:00, отход по схемe CASE I. Возврат в 09:10 по схеме CASE I, за исключением звена Raven, осуществляющих X-CAS (непосредственная поддержка войск, при которой самолёт ожидает запроса на CAS, находясь в воздухе), их возврат запланирован на 12:30. Позиция возврата - North 26 34 и East 51 50. Ожидаемый посадочный курс 130.\
 \
-Closest land is Bahrain to the south, but  all Bahraini airports are currently out of operation due to dust storm - which means no available divert airport”.\
+Ближайший берег находится на юге, в Бахрейн, но все аэропорты Бахрейна на данный момент не работают из-за песчанной бури, что означает, что запасные аэропорты недоступны.”.\
 \
-Presently, rows of letters gave way to a map showing the Persian Gulf with some of the areas - notably near Iranians shore - marked with distinctive red line.\
+Ряды букв уступили место карте Персидского залива с некоторыми районами, особенно у иранского берега, отмеченными характерной красной линией.\
 \
-“Restricted airspace: over Iran and the 12-mile territorial limit from any country but Kuwait. As usual, Magic will work with relevant authorities in Kuwait, Bahrain and in other places to work out the transit permissions where necessary”. \
+“Зоны ограниченния полётов - над Ираном и в пределах 12 миль воздушного пространства остальных стран, кроме Кувейта. Как обычно, Magic будет работать с соответсвующими службами Кувейта, Бахрейн и других государств, если это потребуется”. \
 \
-The image changed, once again turning into rows of call signs, aircraft numbers, frequencies and load outs - the Air Tasking Order.\
+Изображение сменилось, снова переключившись на ряды позывных, номером самолётов, частот радиостанции и боевой загрузки (Air Tasking Order).\
 \
-“We already have Nail 21 in the AO over Iraq. Due to increased activity of Iranian air forces, we will be sending a CAP flight - that will be Raven 11.  Nails are tasked with X-CAS in designated area over southern Iraq. If the Nails check good, the Raven spare can perform SSSC under Strike (or Knight) control in the vicinity of the ship. Texaco will remain airborne and can be called as needed. \
+“У нас уже есть Nail 2-1 в воздушном пространстве Ирака. Из-за увеличения активности Иранских ВВС, мы отправим звено для воздушного патрулирования (CAP) - и это будет Raven 1-1. Задача Nail - осуществление непосредственной поддержки войск в обозначенных зонах над южном Ираком. Если Nails проверятся успешно, запасной Raven будет осуществлять SSSC (воздушную разведку) в непосредственной близости от корабля и докладывать Strike (или Knight). Texaco будет находиться в воздухе и может быть вызван, если потребуется. \
 \
-The card of the day contains details regarding comms, frequencies, channels and the like. \
+Позывные, частоты, каналы, цветовые коды каналов и прочее вы можете найти в вашей полётной карточке. \
 \
-Finally, the Rules of Engagement. Follow the Consolidated ROE annexed to OPORD 04/08. Some critical points:\
+Наконец, правила ведения боя. Следуйте общим правилам, изложенным в OPORD 04/08. Наиболее важные моменты:\
 \
-Do not enter airspace of any country without specific agreement. Steer clear from “Waterloo Red” - airspace and territorial waters of any country except Kuwait.\
-During Troops In Contact situations use of kinetic strike even in urban areas is authorised, however on-scene Commander is responsible for minimizing collateral damage and responding in a proportional manner. Extra precautions should be taken during attacks on targets in close proximity of mosques and religious or historical sites. High explosive ordnance should not be employed unless absolutely necessary if such building is less than 750 meters from the target. \
+Не входите в воздушные пространства каких-либо стран без прямого согласования. Избегайте входа в “Waterloo Red” - воздушное пространство или территориальные воды любой страны кроме Кувейта.\
+В случаях нахождения союзных войск в бою разрешенно применение ВПУ в городских зонах, вместе с тем, непосредственный командир в зоне боевых действий несёт ответственность за минимизацию сопутствующего ущерба и соразмезрность воздействия. Особая осторожность должна соблюдаться при атаке целей в непосредственной близости от мечетей и иных религиозных или исторических объектов. Вы должны избегать применения бомб или ракет, если цель находится в пределах 750 метров от таких объектов, без крайней на то необходимости. \
 \
-That is all from my side. Have a safe flight and we’ll see you back on deck for a debrief. Oh, and happy Valentine’s Day!",
+У меня всё. Безопасных вам полётов и буду рада видеть вас на палубе для дебрифинга. О, и счастливого дня Святого Валентина!",
     ["DictKey_GroupName_187"] = "Z_Iraq_Oilfield #012",
     ["DictKey_WptName_3588"] = "",
     ["DictKey_UnitName_1373"] = "Z_Al_Basra #271",
@@ -3651,51 +3652,57 @@ That is all from my side. Have a safe flight and we’ll see you back on deck fo
     ["DictKey_UnitName_6166"] = "Z_Al_Basra #853",
     ["DictKey_UnitName_3983"] = "Z_Khor Al Zubar #060",
     ["DictKey_UnitName_3968"] = "Z_Khor Al Zubar #058",
-    ["DictKey_descriptionBlueTask_3"] = "At that, pilots stood up and gathered around their flight leaders. Cajun was going over Raven 11’s mission with Sponge Bob, for whom that would be the first flight since the barricade two days prior. Flip waited for Smoke and Dutch to approach him and then nodded to Psycho, who was on desk duty, to load up his presentation. Few seconds later, a large map of the Gulf appeared on the main screen in the briefing room.\
+
+    ["DictKey_descriptionBlueTask_3"] = "Пилоты встали и собрались вокруг своих ведущих. Cajun отправится на миссию вместе с Sponge Bob в составе звена Raven 1-1. Для Sponge Bob это был первый вылет с тех пор, как его “заббарикадировали” (поймали в сеть на посадке) двумя днями ранее. Flip подождал, пока Smoke и Dutch подойдут к нему и кивнул Psycho (её позывной - аббревиатура от “Please Shut Your Cake HOle” (в пер. “Пожалуйста заткни свой тортикоприёмник”), был дан ей из-за её громких и неприятных комментариев по любому поводу). Psycho, как дежурный офицер, загрузила презентацию, и несколькими секундами позже на экране появилась большая карта Персидского залива.\
 \
-[BRIEF 1] “OK guys, listen up. We had the general briefing at the AOM yesterday, now it’s time for core business. Our task for today is to go to assigned area and perform a X-CAS in case guys on the ground require our help. Let’s get to it.\
+[СЛАЙД 1] “Хорошо, ребята, слушайте сюда. Мы были не общем брифинге в рамках офицерского собрания (AOM - All Officers Meeting) вчера, пришло время для основной части нашей работы. Наша задача на сегодня - выдвинуться в назначенный район и оказать непосредственную воздушную поддержку, если нашим парням на земле потребуется помощь. Так что давайте их не подведём.\
 \
-First, the assignments. I’m in 403, you Smoke in 410, Dutch will take 407. We are Nail 41 and 42 for this one, Dutch is Nail 51, provided that  all checks are good. We’re going to step at 0803, check comms and crank up at 0805, then take off with 1 minute separation. Smoke, you will go first at 0810, I’ll launch second, Dutch third. \
+Сперва, по назначениям. Я полечу на 403, ты, Smoke на 410. Dutch возьмёт 407. Наши позывный - Nail 4-1 и Nail 4-2, Dutch - Nail 5-1 - останется здесь, если у нас не будет сбоев при проверке контрмер. Мы садимся самолёт в 08:00, проверяем связь и запускаем двигатели в 08:05, затем взлетаем с разницей в одну минуту. Smoke, ты взлетаешь первым в 08:10, я взлетаю вторым, Dutch - третьим. \
 \
-I’ll join up on Smoke, take lead and we’ll perform items checks. If our countermeasures are working as advertised, we will push on and let Dutch have some fun around the boat. Questions?” - Flip glanced at both junior officers and seeing there were none, nodded and continued.\
+Я встаю в строй к Smoke, принимаю командование и мы осуществляем проверки (требуется запустить один блок дипольныз отражателей и одну ЛТЦ). Если наши контрмеры будут работать как положено, мы выдвигаемся и оставляем Dutch веселиться на разведывательном задании около авианосца. Вопросы?” - взгляд Flip скользнул по обоим младшим офицерам и, увидев, что вопросов нет, он кивнул и продолжил дальше.\
 \
-“Fine. On to the mission. Our mission number is 131. We’ll go direct Padres, which is our waypoint 2 using max conserve fuel profile above Angels 30. At Padres we will rendezvous with Exxon 55, an Air Force KC-135, and we’ll each fuel up and then continue to the AO. Our controlling agency will be Falcon - expect Falcon Control to be on Magenta 13 - who will assign us a specific area, altitude block and local commander, who then may pass us down directly to the troops on the ground. All the comms are listed on the card or the day and we’ll be using colours and numbers that are unified among all the assets under Falcon’s control. We’ll stay in our assigned sector and tank as required until we’re Winchester or must RTB at time 12:30. Questions?”\
+“Замечательно. По нашей миссии. Номер нашей миссии 1-3-1. Мы направяемся к Padres, наш ППМ 2, пойдём по FPAS в режиме максимальной дальности полёта выше 30 000. Около Padres мы встретимся с Exxon 55, KC-135 ВВС США, дозаправимся и продолжим полёт в зону. По прилёту мы поступим в распоряжение Falcon - на канале Magenta 13 - и он назначет нам зону, высоту коридора и местного командира, который направит нас непосредственно к авианаводчику на земле. Все частоты указаны в полётной карточке мы будем использовать цвета и номера, общие для всех групп войск под контролем Falcon. Мы останемся в указанном секторе и будем оказывать поддержку до тех пор, пока мы не израсходуем боеприпасы или не придёт время возврата на базу в 12:30. Вопросы?”\
 \
-“Yeah” - Smoke pointed at the map - “enemy activity. What can we expect?”\
+“Да” - Smoke указал на карту - “Силы врага. Что нам следует ожидать?”\
 \
-“The usual. Groups of bad-guys with small-caliber weapons and probable MANPADs. They know the AO extremely well and are capable of blending with the terrain. As Skipper said the other day: we will rely on the JTAC, but we are also free to question him and make our own calls if we think we are in danger of violating the ROE.”\
+“Как обычно. Группы плохих парней с мелкокалиберным оружием и возможно ПЗРК (переносной зенитно-ракетный комплекс). Они знают зону операции предельно хорошо и способны сливаться с местностью. Как сказал Skipper (командир эскадрильи) вчера: мы будем полагаться на авианаводчика, но мы также можем задавать ему вопросы и связываться с его командованием, если мы рискуем нарушить правила ведения огня.”\
 \
-As there were no further questions, Flip moved on.\
+Видя, что вопросов не осталось, Flip продолжил.\
 \
-“Weapons. We’ll go with one GBU-38, one GBU-12, full 20 mike-mike, FLIR, wingtip ‘winders and two tanks each. For the LGBs we’ll set up different codes, which are listed in the kneeboards. We’ll fence in before we get to Waypoint 1. Anything on weapons?”\
+“Вооружение. Мы возьмём с собой по одной GBU-38, одной GBU-12, полный боекомплект 20 майк-майк (20mm снаряд ВПУ), FLIR (прицельный контейнер), Sidewinders на законцовках крыльев и по два ПТБ (подвесной топливный бак). Для бомб с лазерным наведением мы установим разные коды лазера, согласно записям в наколенном планшете. Мы приготовим вооружение к работе после ППМ 1. Вопросы по вооружению?”\
 \
-Smoke and Dutch shook their heads in unison.\
+Smoke и Dutch покачали головами.\
 \
-“Good. Comms. We’ll perform check in on channel 1 on Pri and Aux. Once we join up I’ll switch us to Strike on Pri, and then continue as directed by controlling agencies. You guys set your TACANs according to the kneeboard, I’ll get us to the tanker and later on back to Mother. Questions?”\
+“Хорошо. Связь. Мы проверим связь в звене по каналу 1 на Pri (Comm 1) и Aux (Comm 2). Когда мы соберёмся, я дам команду переключиться на частоту Strike на Pri, с которой мы продолжим полёт до тех пор, пока нам не скажут переключиться на службу управления полётами. Вы, парни, выставите свои TACANs согласно полётной карточке (для использования Yardstick (Использование TACAN для определения дистанции между самолётами в звене)), я выведу нас на топливозаправщик и мы отправимся к Mother (авианосцу). Вопросы?”\
 \
-No questions. \
+Вопросов не последовало. \
 \
-[BRIEF 2] “You have seen the weather. Those dust storms can get nasty and really limit the visibility. Still, according to the forecasts, it is now much worse in the southern Gulf and shouldn’t be as bad near Basra. We will adapt to what we’ll find.\
+[СЛАЙД 2] “Вы видите, какая погода. Эти песчаные бури по настоящему противные и ощутимо ограничивают видимость. Однако, судя по сводкам, они наиболее сильны в южной части залива и около Basra всё должно быть не настолько плохо. В любом случае, мы будем работать с тем, что имеем.\
 \
-[MAPS] Next, our flight plan. As I mentioned before, at waypoint 1 we’re going to fence in and climb above Angels 20, flying towards Padres. Magic will do his… well, magic, with the controlling agencies along the way so we don’t have to worry about that. We will check in with Basra Center before entering Padres, where we will join up with Exxon and get a drink (top off). After that we’ll talk to Falcon, go to the assigned kill box: 89 Alpha, Bravo or Charlie and descend to assigned altitude block. We will roam in the box and wait if we’re called, refuel, roam some more and then depart, coming back almost exactly the same way we came. \
+[КАРТЫ] Далее, наш план полёта. Как я упоминал, на ППМ 1 мы приготовим вооружение к бою и заберёмся выше 30 000, направляясь к Padres. Magic сделает его... кхм, магию, со службами управления полётами по нашему маршруту, так что об этом можно не переживать. Мы свяжемся со службой управления полётами Basra перед входом в Padres, где мы встретимся с Exxon на 22 000 и дозаправимся под завязку. После этого мы свяжемся с Falcon, и направимся в указанную боевую зону: 89 Alpha, Bravo или Charlie и снизимся в назначенный высотный коридор. По прибытию мы покрутимся в зоне в режиме максимального времени нахождения в воздухе по FPAS и ждать запроса на CAS, перезаправися, покрутимся ещё и после этого отбудем, возвращаясь почти так же, как мы летели туда. \
 \
-Finally, the emergencies. In case of any problems with one of our jets, Dutch will jump in and take over. As you have seen, our divert for today is Sir Abu Nuayr - if you have to go there, be careful, as the runway is pretty damn short. Any plans to use Bahraini bases went Tango Uniform with the weather. We’ll set our joker to 5000 and tank to 3000, should be enough to get to tank. In case of trouble with the tanker, Falcon will guide us to divert field in Iraq or Kuwait. If one of us has to bail, friendly forces should be in the area, although the population is known to support the rebels - so better stay out of sight. \
+Наконец, внештатные ситуации. В случае каких-либо проблем с нашими истребителями, Dutch подскочит и прикроет с воздуха. Как вы заметили, наш запасной аэродром сегодня -  Sir Abu Nuayr - и если бы не дай бог отправитесь туда, будьте внимательны, взлётная полоса там чертовски короткая. Все наши планы насчёт баз Бахрейн в статусе Tango Uniform (Tits Up, в прибл пер. накрылись п*здой) ввиду погоды. Мы выставим Joker (первое предупрежение о рубеже возврата) на 5000 и BINGO (рубеж возврата) на 3000, этого должно хватить, чтобы добраться до топливозаправщика. В случае проблем с ним, Falcon направит нас на запасной аэродром в Ираке или Кувейте. Если придётся катапультироваться, дружественные силы должны быть в зоне, хотя, ввиду того, что местные могут поддерживать боевиков - лучше оставайтесь в зоне видимости наших сил. \
 \
-Alright guys, I think that’s it. Last questions or anything to add?”\
+Хорошо, ребята, У меня всё. Есть вопросы или дополнения?”\
 \
-Flip looked at each of the pilots in turn. \
+Flip оглядел обоих пилотов по очереди. \
 \
-“Negative”\
+“Отрицательно”\
 \
-“Nope”\
+“Нет”\
 \
-“Alright! Let’s do it!”.\
+“Отлично! Сделаем это!”.\
 \
-DESIGNERS NOTES\
-- you will spawn 2 seconds after mission start. This is normal.\
-- you should let Smoke take off first and then catch up on the way to WP 1.\
-- this mission will require you to perform air to air refuelling at least once. However, in the first 60 seconds you will have option to skip first part and load version of the mission where you will start behind Texaco with full tanks on the way to the AO or after the mission. \
-- Estimated mission length: 150 minutes",
+Заметки дизайнера\
+- Вы заспавнитесь через 2 секунды после начала миссии. Это нормально.\
+- Вы должны позволить Smoke взлететь первым, после чего встать к нему в строй на пути к ППМ 1.\
+- Эта миссия предполагает осуществлениие дозаправки в воздухе по меньшей мере один раз. Однако, в течение первых 60 секунд у вас будет возможность пропустить первую часть и загрузиться в тот момент, когда вы будете находиться за Texaco с полными баками на пути к зоне операции или после миссии. \
+- Расчётное время миссии: 150 минут\
+\
+Заметки переводчика\
+- Для снижения сложности миссии ПТБ расположены на крыльевых пилонах. В новеле упоминается о том, что один из баков расположен на центральном пилоне. Рекомендуется переместить туда бак со стороны прицельного контейнера, чтобы он не мешал обзору.\
+- Для поиска города удобно использовать радар в режиме SURF. Города в этом режиме отчётливо видны. После установки метки сверьте её позицию с картой на HSI/SA \
+",
     ["DictKey_UnitName_7248"] = "Z_Al_Basra #130",
     ["DictKey_WptName_5706"] = "",
     ["DictKey_WptName_3711"] = "",
